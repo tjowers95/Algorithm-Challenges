@@ -9,7 +9,7 @@ Bonus: Can you do this in one pass?*/
 
 int testSum(int* a, int k)
 {
-    int i = 0, j = 0, c = 0;
+    int i = 0, j = 0;
     while(a[i])
     {
         j = i + 1;
